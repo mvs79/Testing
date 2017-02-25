@@ -1,0 +1,155 @@
+{
+	"kind": "shopping#products",
+	"etag": "\"T9uPnY2MZMB71TDpKXXZdr3yWX4/qtJ5vmpftFWNfijyLD9ti2Xpj-w\"",
+	"id": "tag:google.com,2010:shopping/products",
+	"selfLink": "https://www.googleapis.com/shopping/search/v1/public/products?country\u003dus&q\u003dsony&maxResults\u003d3&startIndex\u003d2",
+	"nextLink": "https://www.googleapis.com/shopping/search/v1/public/products?country\u003dus&q\u003dsony&maxResults\u003d3&startIndex\u003d5",
+	"previousLink": "https://www.googleapis.com/shopping/search/v1/public/products?country\u003dus&q\u003dsony&maxResults\u003d3&startIndex\u003d1",
+	"totalItems": 633694,
+	"startIndex": 2,
+	"itemsPerPage": 3,
+	"currentItemCount": 3,
+	"items": 
+	[
+		{
+			"kind": "shopping#product",
+			"id": "tag:google.com,2010:shopping/products/1161353/11882813508247586172",
+			"selfLink": "https://www.googleapis.com/shopping/search/v1/public/products/1161353/gid/11882813508247586172",
+			"product": 
+			{
+				"googleId": "11882813508247586172",
+				"author": 
+				{
+					"name": "Buy.com",
+					"accountId": "1161353"
+				},
+
+				"creationTime": "2011-04-24T05:13:38.000Z",
+				"modificationTime": "2011-08-05T17:45:24.000Z",
+				"country": "US",
+				"language": "en",
+				"title": "Sony BRAVIA KDL-46EX720 46 inch 3D LED HDTV 1080p 120Hz",
+				"description": "Entertainment lovers the slim Sony EX720-Series LED HDTV is for you. See precise motion detail plus watch your favorite 2D or 3D entertainment in clear, vivid Full HD 1080p picture quality with incredible contrast. You can even connect to the internet and access a great selection of online entertainment with Netflix , Hulu Plus , Pandora , Qriocity and more - there s always something on. Plus video chat with friends and family when you Skype on the big screen.",
+				"link": "http://clickfrom.buy.com/default.asp?adid\u003d17902&sURL\u003dhttp%3A%2F%2Fwww.buy.com%2Fprod%2Fsony-bravia-kdl-46ex720-46-3d-led-hdtv-1080p-120hz%2Fq%2Fsellerid%2F10004001%2Floc%2F111%2F219891693.html",
+				"brand": "Sony",
+				"condition": "new",
+				"gtin": "00027242817081",
+				"gtins": 
+				[
+					"00027242817081"
+				],
+
+				"inventories": 
+				[
+					{
+						"channel": "online",
+						"availability": "inStock",
+						"price": 1348.0,
+						"currency": "USD"
+					}
+				],
+
+				"images": 
+				[
+					{
+						"link": "http://ak.buy.com/PI/0/1000/219891693.jpg"
+					}
+				]
+			}
+		},
+
+		{
+			"kind": "shopping#product",
+			"id": "tag:google.com,2010:shopping/products/7827/1976288072671326122",
+			"selfLink": "https://www.googleapis.com/shopping/search/v1/public/products/7827/gid/1976288072671326122",
+			"product": 
+			{
+				"googleId": "1976288072671326122",
+				"author": 
+				{
+					"name": "Dell",
+					"accountId": "7827"
+				},
+
+				"creationTime": "2011-06-08T15:11:49.000Z",
+				"modificationTime": "2011-08-05T15:04:13.000Z",
+				"country": "US",
+				"language": "en",
+				"title": "Sony Bravia 55\" KDL55EX500 1080p 120Hz LCD HDTV",
+				"description": "Enjoy breathtaking viewing experience with Bravia 55-inch KDL55EX500 1080p LCD HDTV from Sony®. This LCD TV features Motionflow™ 120 Hz Technology that allows you to experience smooth motion detail and clarity which delivers a crisp, fluid and realistic viewing skill during fast-action scenes. Additionally, the incorporated LightSensor™ Technology automatically increases or decreases the level of brightness of your TV's backlight based on a room's lighting conditions. Moreover, the BRAVIA Engine™ 2 fully processor lets you enjoy sharp, vibrant, life-like images while optimizing color, contrast and significantly reducing noise. Besides this, get a natural looking picture with an Ambient Sensor. Plus, you can also share your photos and music on the big screen by simply connecting your digital camera, USB-enabled MP3 player, or USB storage device directly to your HDTV's USB input. With all these features loaded into a single television the Bravia EX500 is an ideal choice to complement your digital lifestyle.var wcCpi\u003d\"A3477150\";",
+				"link": "http://lt.dell.com/lt/lt.aspx?CID\u003d27530&LID\u003d627063&DGC\u003dSS&DGSeg\u003dDHS&DURL\u003dhttp://accessories.us.dell.com/sna/productdetail.aspx?c\u003dus%26l\u003den%26s\u003ddhs%26cs\u003d19%26sku\u003dA3477150%26CAWELAID\u003d469727188",
+				"brand": "Sony",
+				"condition": "new",
+				"gtin": "00027242784932",
+				"gtins": 
+				[
+					"00027242784932"
+				],
+
+				"inventories": 
+				[
+					{
+						"channel": "online",
+						"availability": "inStock",
+						"price": 1348.0,
+						"currency": "USD"
+					}
+				],
+
+				"images": 
+				[
+					{
+						"link": "http://accessories.us.dell.com/sna/images/products/large/A3477150temp.jpg"
+					}
+				]
+			}
+		},
+
+		{
+			"kind": "shopping#product",
+			"id": "tag:google.com,2010:shopping/products/1113342/9429326904502109794",
+			"selfLink": "https://www.googleapis.com/shopping/search/v1/public/products/1113342/gid/9429326904502109794",
+			"product": 
+			{
+				"googleId": "9429326904502109794",
+				"author": 
+				{
+					"name": "Walmart",
+					"accountId": "1113342"
+				},
+
+				"creationTime": "2011-03-26T23:58:51.000Z",
+				"modificationTime": "2011-08-04T19:42:49.000Z",
+				"country": "US",
+				"language": "en",
+				"title": "Sony Bravia 32\" Class 3D LED-LCD 1080p 240Hz HDTV,1.68\" ultra-Slim,",
+				"description": "Note: You must have a source of HD programming in order to take full advantage of the Sony Bravia 32\" Class 3D 1080p LED HDTV. Contact your local cable or satellite TV provider for details on how to upgrade.Visit the Sony Brand Shop for 3D glasses, other 3D HDTVs and more.Sony Bravia 32\" Class 3D 1080p LED HDTV 240Hz, KDL-32EX720:See It All In 3D: Engineered with advanced technologies, the EX720 Series is more than a fully-loaded HDTV with 3D. Once you slide on the active shutter glasses (sold separately), the on-screen image is precisely synchronized and delivered with the Full HD image intact for an immersive entertainment viewing experience with maximum resolution and superb clarity.Slim Design, Stunning Picture: Experience the next level of picture quality and contrast with Edge LED Backlight technology. U",
+				"link": "http://www.walmart.com/ip/Sony-KDL-32EX720/15780230?sourceid\u003d1500000000000003142050&ci_src\u003d14110944&ci_sku\u003d15780230",
+				"brand": "Sony",
+				"condition": "new",
+				"gtin": "00027242817135",
+				"gtins": 
+				[
+					"00027242817135"
+				],
+
+				"inventories": 
+				[
+					{
+						"channel": "online",
+						"availability": "inStock",
+						"price": 898.0,
+						"currency": "USD"
+					}
+				],
+
+				"images": 
+				[
+					{
+						"link": "http://i.walmartimages.com/i/p/00/02/72/42/81/0002724281713_500X500.jpg"
+					}
+				]
+			}
+		}
+	]
+}

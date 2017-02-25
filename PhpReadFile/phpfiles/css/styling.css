@@ -1,0 +1,91 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+th {text-align: left;}
+body
+{
+	background-color: blue;
+}
+#header
+{
+	background-color: blue
+}
+#content
+{
+	/*background-image: url("phpfiles/images/auto.jpg");*/
+	background-color: red;
+	
+}
+#drop_region
+{   
+	
+}
+#drop_firstname
+{
+	
+}
+#search
+{
+	
+}
+#btn_getproduct
+{
+	
+}
+.button
+{
+	width:100px;
+	heigth:20px;
+}
+#btn_costumer
+{
+	
+}
+#content_sidebarleft
+{   
+	/*
+    width:300px;
+    height:200px;
+    margin-top:50px;
+    paddding-top:300px;
+	background-color: yellow;
+	*/
+}
+#formular
+{
+  background-color: green;
+}
+#chk_form
+{   
+	/*
+    width:40px
+	margin-top:100px;
+	margin-left:300px;
+	paddding-top:550px;
+	background-color: gray;
+	*/
+	
+}
+#lastname
+{
+ white-space:normal; 
+}
+#txtdata
+{
+	
+}
+#load_form
+{
+	
+}
+#footer
+{
+	background-color: blue;
+}

@@ -1,0 +1,41 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+th {text-align: left;}
+#header
+{
+	background-color: blue
+}
+#content
+{
+	/*background-image: url("phpfiles/images/auto.jpg");*/
+	background-color: red;
+}
+#content_sidebarleft
+{
+	background-color: yellow;
+}
+#formular
+{
+  background-color: green;
+}
+#chk_form
+{
+	margin-top: 20px;
+	background-color: gray;
+}
+#txtdata
+{
+	
+}
+#footer
+{
+	background-color: blue;
+}

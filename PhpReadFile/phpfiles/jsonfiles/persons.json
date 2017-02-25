@@ -1,0 +1,22 @@
+{
+	"employees": 
+	[
+		{
+			"name": "Veenhuis",
+			"vorname": "Matthias",
+			"alter": 37
+		},
+
+		{
+			"name": "Veenhuis",
+			"vorname": "Johannes",
+			"alter": 37
+		},
+
+		{
+			"name": "Müller",
+			"vorname": "Jan",
+			"alter": 37
+		}
+	]
+}
