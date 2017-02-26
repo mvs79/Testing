@@ -1,35 +1,12 @@
 <?php
-/*
- * Created on 13.02.2017
- *
- * To change the template for this generated file go to
- * Window - Preferences - PHPeclipse - PHP - Code Templates
- */
- function verbindung() {
-$host = "localhost";    //Hostname, standartmaeï¿½ig localhost
+
+$host = "localhost";    //Hostname, standartmaeßig localhost
 $user = "root";    //Benutzername
 $pass = "";    //Kennwort
-$db = "northwind";    //Datenbankname
+$db = "products";    //Datenbankname
 
-try {
-   $dbh = new PDO("mysql:host=$host;dbname=$db", $user, $pass);
-//   $sqlcharset = "SET NAMES 'utf8'";
-//   $querycharset = $dbh-> prepare($sqlcharset);   
-//   $querycharset-> execute();
-//   $query = $dbh-> prepare($sql);   
-//   $query-> execute();
-//   $results=$query->fetchAll(PDO::FETCH_ASSOC);
-//   $json=json_encode($results);
-//   return $json;
-     return $dbh;
-//    return $query;
-   
-   $dbh = null;
-} catch (PDOException $e) {
-   print "Error!: " . $e->getMessage() . "<br/>";
-  
-   die();
-       }
-    }
- 
+$link = mysql_connect($host, $user, $pass) or die ("Keine Verbindung zu der Datenbank m&ouml;glich!");
+mysql_select_db($db, $link) or die ("Ausw&auml;hlen der Datenbank fehlgeschlagen!");
+
+
 ?>
